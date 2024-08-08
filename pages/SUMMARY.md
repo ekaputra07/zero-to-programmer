@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Zero to Programmer](README.md)
+* [Apa pendapat mereka?](apa-pendapat-mereka.md)
