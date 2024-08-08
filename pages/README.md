@@ -1,5 +1,21 @@
 ---
 description: Perjalanan merubah hidup dengan programming.
+cover: .gitbook/assets/ztp.png
+coverY: -293.4613333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Zero to Programmer
