@@ -13,4 +13,4 @@ _"Kalau kamu tidak ingin sukses menjadi programmer, please jangan baca buku ini!
 ### Baca sekarang!
 
 - 👉 [Baca online](https://upkoding.gitbook.io/zero-to-programmer)
-- 👉 [Download e-book & audiobook](https://app.jetform.me/upkoding/zero-to-programmer-ebook?utm_source=github&utm_medium=download-link)
+- 👉 [Download e-book & audiobook](https://drive.google.com/drive/folders/1CjNMUAzX1pKcCLkz3iIFi9fRp81rrJ4o?usp=sharing)
